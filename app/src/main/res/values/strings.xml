@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlayDespacito</string>
+    <string name="play">Rock It</string>
+    <string name="pause">Pause</string>
+    <string name="volume">Volume</string>
+    <string name="timeline">Playing Now</string>
+</resources>
