@@ -49,9 +49,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-//        //Timeline Controls
-//        timeline = (SeekBar) findViewById(R.id.timeline);
-//        timeline.setMax(mediaPlayer.getDuration());
+        //Timeline Controls
+        timeline = (SeekBar) findViewById(R.id.timeline);
+        timeline.setMax(mediaPlayer.getDuration());
 //        new Timer().schedule(new TimerTask() {
 //            @Override
 //            public void run() {
